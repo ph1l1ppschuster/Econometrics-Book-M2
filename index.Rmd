@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat turpis sed pulvinar fringilla. Maecenas ornare in est nec maximus. Pellentesque laoreet consectetur rhoncus. Nullam erat quam, finibus et varius in, feugiat at augue. Nam faucibus urna vehicula luctus faucibus. Phasellus magna orci, sagittis et lorem ac, porttitor hendrerit lorem. Suspendisse dictum dui nisl, sit amet tincidunt lacus pharetra viverra. Proin est sapien, gravida lacinia lectus at, maximus volutpat sapien. Phasellus vel euismod ante. Donec fringilla condimentum velit efficitur placerat. Curabitur lacinia cursus metus non fringilla. Mauris sapien risus, pellentesque eu turpis sit amet, tempus pellentesque lorem. Praesent lacinia tortor vel tincidunt suscipit.
 
@@ -17,7 +17,7 @@ Duis ultrices nisl nec libero porttitor semper. Nullam maximus tortor ac lorem a
 
 Nullam tempor sagittis mauris in ultrices. Nullam volutpat diam suscipit volutpat finibus. Nunc tempor non odio facilisis placerat. Integer pulvinar nisi et ligula vestibulum, ac interdum arcu rutrum. Phasellus auctor vestibulum nibh finibus tincidunt. Cras commodo condimentum risus, at pretium orci laoreet auctor. Suspendisse dictum nec justo nec laoreet. In dignissim ex orci, quis efficitur lectus pretium vitae. Aliquam erat volutpat. 
 
-# Down the rabbit-hole 2
+# Randomized Control Trials
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc volutpat turpis sed pulvinar fringilla. Maecenas ornare in est nec maximus. Pellentesque laoreet consectetur rhoncus. Nullam erat quam, finibus et varius in, feugiat at augue. Nam faucibus urna vehicula luctus faucibus. Phasellus magna orci, sagittis et lorem ac, porttitor hendrerit lorem. Suspendisse dictum dui nisl, sit amet tincidunt lacus pharetra viverra. Proin est sapien, gravida lacinia lectus at, maximus volutpat sapien. Phasellus vel euismod ante. Donec fringilla condimentum velit efficitur placerat. Curabitur lacinia cursus metus non fringilla. Mauris sapien risus, pellentesque eu turpis sit amet, tempus pellentesque lorem. Praesent lacinia tortor vel tincidunt suscipit.
 
